@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.ja</groupId>
-	<artifactId>basic-project</artifactId>
+	<artifactId>amazon-project</artifactId>
 	<version>1.0</version>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
