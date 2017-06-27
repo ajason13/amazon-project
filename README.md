@@ -1,7 +1,6 @@
-# Basic Project
-## Basic Project Structure
+# Amazon Project
 
-*Default Structure for A Basic Project*
+*Test out Selenium on amazon.com*
 
 **Java 8**
 
